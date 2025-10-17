@@ -1,3 +1,3 @@
 function showMessage() {
-  document.getElementById('message').innerText = "Hello, Jahanzaib! This is your GitHub Pages site 😎";
+  document.getElementById('message').innerText = "Hello, Umar! This is your GitHub Pages site 😎";
 }
